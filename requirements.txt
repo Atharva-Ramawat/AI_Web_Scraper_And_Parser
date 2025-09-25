@@ -1,0 +1,7 @@
+streamlit
+selenium
+webdriver-manager
+beautifulsoup4
+langchain
+langchain-community
+langchain-ollama
