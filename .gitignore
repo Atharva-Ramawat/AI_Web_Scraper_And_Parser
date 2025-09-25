@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+ai/
+.venv/
+env/
+
+# Binaries and executables
+chromedriver.exe
+
+# Temporary files and logs
+*.png
+*.log
+
+# Streamlit secrets
+.streamlit/
